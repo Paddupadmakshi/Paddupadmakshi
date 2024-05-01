@@ -12,9 +12,9 @@
 
 ## Connect with Me
 
-- LinkedIn: (https://www.linkedin.com/in/padmakshi-rao/)
-- Website/Blog: (https://padmakshi.medium.com/)
-- Email: (mailto:padmakshi4463@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/padmakshi-rao/)
+- Website/Blog: [My Blog](https://padmakshi.medium.com/)
+- Email: [My Email Address](mailto:padmakshi4463@gmail.com)
 
 # Programming Languages:
 ![Python](https://img.icons8.com/color/48/000000/python.png)
