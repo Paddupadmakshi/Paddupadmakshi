@@ -12,13 +12,11 @@
  - ⚡ Fun fact: ...
 
 # Programming Languages:
-
-![Linux](https://img.icons8.com/color/48/000000/linux.png)
-![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
-
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 # DevOps Tools:
-
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
