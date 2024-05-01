@@ -1,14 +1,14 @@
 # Hi there 👋 I'm so glad that you are here :)
 
- Welcome to my GitHub profile! I'm  Padmakshi, a passionate Cloud & DevOps Engineer with a love for cooking!
+ Welcome to my GitHub profile! I'm  *Padmakshi*, a passionate *Cloud & DevOps Engineer* with a love for cooking!
 
-🔭 I’m currently working on a DevOps project to showcase my learnings.
+🔭 I’m currently working on a *DevOps projects to showcase my learnings*.
 
-🌱 I’m currently learning new DevOps tools & Technologies to stay ahead in the game.
+🌱 I’m currently learning *new DevOps tools & Technologies* to stay ahead in the game.
 
-👯 I’m looking to collaborate on projects that leverage cutting-edge technologies in the DevOps space.
+👯 I’m looking to collaborate on *projects that leverage cutting-edge technologies* in the DevOps space.
 
-💬 Ask me about anything related to Cloud, DevOps, or technology in general! If you want to swap recipes, I'm all ears for that too!
+💬 Ask me about anything *related to Cloud, DevOps, or technology* in general! If you want to swap recipes, I'm all ears for that too!
 
 🍳 Fun fact: I'm an avid cook and love experimenting with different cuisines in my kitchen.
 
