@@ -10,7 +10,7 @@
 
 💬 Ask me about anything **related to Cloud, DevOps, or technology** in general! If you want to swap recipes, I'm all ears for that too!
 
-🍳 Fun fact: I'm an avid cook and love experimenting with different cuisines in my kitchen.
+🍳 Fun fact, I'm an avid **cook and love experimenting** with different cuisines in my kitchen.
 
 # Connect with Me
 
