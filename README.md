@@ -1,14 +1,16 @@
 ### Hi there 👋 I'm so glad that you are here :)
 
-   Here are some ideas to get you started:
- - 👨‍💻 I’m Padmakshi a Cloud & DevOps Engineer.
- - 🔭 I’m currently working on DevOps project to showcase my learnings.
- - 🌱 I’m currently learning new DevOps Tools
- - 👯 I’m looking to collaborate on ...
- - 💬 Ask me about ...
- - 📫 How to reach me: Reach me on padmakshi4463@gmail.com
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
+ Welcome to my GitHub profile! I'm  Padmakshi, a passionate Cloud & DevOps Engineer with a love for cooking!
+
+🔭 I’m currently working on a DevOps project to showcase my learnings.
+
+🌱 I’m currently learning new DevOps tools & Technologies to stay ahead in the game.
+
+👯 I’m looking to collaborate on projects that leverage cutting-edge technologies in the DevOps space.
+
+💬 Ask me about anything related to Cloud, DevOps, or technology in general! If you want to swap recipes, I'm all ears for that too!
+
+🍳 Fun fact: I'm an avid cook and love experimenting with different cuisines in my kitchen.
 
 ## Connect with Me
 
