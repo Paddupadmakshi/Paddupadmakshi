@@ -11,17 +11,14 @@
  - 😄 Pronouns: ...
  - ⚡ Fun fact: ...
 
-Programming Languages:
+# Programming Languages:
+
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
-![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
-![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 
-DevOps Tools:
+
+# DevOps Tools:
+
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
