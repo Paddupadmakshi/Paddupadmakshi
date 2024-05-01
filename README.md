@@ -1,4 +1,4 @@
-### Hi there 👋 I'm so glad that you are here :)
+# Hi there 👋 I'm so glad that you are here :)
 
  Welcome to my GitHub profile! I'm  Padmakshi, a passionate Cloud & DevOps Engineer with a love for cooking!
 
@@ -12,7 +12,7 @@
 
 🍳 Fun fact: I'm an avid cook and love experimenting with different cuisines in my kitchen.
 
-## Connect with Me
+# Connect with Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/padmakshi-rao/)
 - Website/Blog: [My Blog](https://padmakshi.medium.com/)
