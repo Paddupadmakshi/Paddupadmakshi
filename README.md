@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm so glad that you are here :)
 
-  ### Here are some ideas to get you started:
+   Here are some ideas to get you started:
  ### - 👨‍💻 I’m Padmakshi a Cloud & DevOps Engineer.
 ### - 🔭 I’m currently working on ...
 ### - 🌱 I’m currently learning ...
@@ -10,3 +10,9 @@
 ### - 📫 How to reach me: Reach me on padmakshi4463@gmail.com
 ### - 😄 Pronouns: ...
 ### - ⚡ Fun fact: ...
+
+Programming Languages:
+python c javascript
+
+DevOps Tools:
+linux        bash        git        docker        kubernetes        ansible        terraform
