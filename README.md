@@ -14,9 +14,11 @@
 
 # Connect with Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/padmakshi-rao/)
-- Website/Blog: [My Blog](https://padmakshi.medium.com/)
-- Email: [My Email Address](mailto:padmakshi4463@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com/)
 
 # DevOps Tools:
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
