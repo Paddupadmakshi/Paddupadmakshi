@@ -12,13 +12,14 @@
 
 🍳 Fun fact, I'm an avid **cook and love experimenting** with different cuisines in my kitchen.
 
-# Connect with Me
+# Lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmakshi-venkateswara-rao/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://padmakshi.medium.com/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://padmakshi.hashnode.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmakshi4463@gmail.com)
-# DevOps Tools:
+
+# Tech Stack
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
